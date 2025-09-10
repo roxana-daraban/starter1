@@ -74,8 +74,11 @@ document.querySelector('.again').addEventListener('click', function () {
 ///////////////////////////////////////
 // Coding Challenge #1
 
+//noouuu
+
 /* 
 Implement a game reset functionality, so that the player can make a new guess! Here is how:
+
 
 1. Select the element with the 'again' class and attach a click event handler
 2. In the handler function, restore initial values of the score and secretNumber variables
