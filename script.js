@@ -74,7 +74,7 @@ document.querySelector('.again').addEventListener('click', function () {
 ///////////////////////////////////////
 // Coding Challenge #1
 
-//noouuu
+//noouuu f --- IGNORE ---
 
 /* 
 Implement a game reset functionality, so that the player can make a new guess! Here is how:
